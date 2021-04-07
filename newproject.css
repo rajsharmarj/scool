@@ -1,0 +1,49 @@
+nav .brand{
+	margin-left: 8rem;
+	margin-top: 2rem;
+    font-size: 5rem;
+    color: black;
+    font-family: bold;
+    padding-right: 55rem;
+
+}
+span{
+	color: #F3164D;
+}
+nav .nav-item{
+	text-align: right;
+	color: black;
+
+}
+button{
+	text-align: right;
+	}
+.card{
+	border-radius: 6px;
+}
+
+.playbtn{
+   width: 60px;
+   position: absolute;
+   left: 50%;
+   top:50%;
+   transform: translate(-50%,-50%);
+   cursor: pointer;
+}
+.bot{
+	padding-top: 2rem;
+	padding-left:5rem;
+	padding-bottom: 2rem;
+	margin-bottom: 0;
+}
+
+.bottom{
+	margin-right: 0;
+	margin-top: 1rem;
+}
+hr {
+   background-color: red;
+   width: 60%;
+   margin-right: auto;
+   margin-left: auto;
+}
